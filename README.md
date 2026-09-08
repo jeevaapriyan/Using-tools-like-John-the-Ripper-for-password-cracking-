@@ -1,4 +1,6 @@
 # Using-tools-like-John-the-Ripper-for-password-cracking
+# NAME : JEEVAAPRIYAN M 
+# REG NO : 212225040147
 ## AIM:
 To crack password hashes using John the Ripper in Kali Linux.
 ## REQUIREMENTS:
@@ -55,6 +57,11 @@ john --show myhashes.txt
 
 ## OUTPUT:
 Cracked Passwords from Hash File
+
+<img width="631" height="610" alt="image" src="https://github.com/user-attachments/assets/3e418a18-c898-47a0-bf61-84755aaaea51" />
+
+<img width="646" height="615" alt="image" src="https://github.com/user-attachments/assets/aec8001a-4c7d-4f12-9e22-8fd64866946a" />
+
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
